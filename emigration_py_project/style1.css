@@ -15,11 +15,9 @@ body {
     background-size: cover
 }
 .emigphoto{
-width: 100%;
-margin-left: 8rem;
-margin-top: 2rem;
+   max-width: 100%;
    display: flex;
-   justify-content: start;
+   justify-content: center;
    }
   .intr{
   margin-left: 30rem;
